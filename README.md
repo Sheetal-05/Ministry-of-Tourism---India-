@@ -16,7 +16,7 @@
 ## :round_pushpin: About The Project
 &ensp; *Welcome to the Ministry of Tourism, your gateway to the vibrant tapestry of experiences awaiting you in India. Nestled amidst breathtaking landscapes, ancient civilizations, and a kaleidoscope of cultures, India beckons you to embark on a journey of discovery like no other. From the snow-capped peaks of the Himalayas to the sun-kissed beaches of Goa, from the majestic forts of Rajasthan to the serene backwaters of Kerala, every corner of our diverse nation holds a treasure trove of wonders waiting to be explored. Immerse yourself in the sights, sounds, and flavors of India as you traverse its bustling cities, quaint villages, and verdant countryside. Let us be your guide as you unravel the mysteries, indulge in the hospitality, and create memories that will last a lifetime. Come, discover the spirit of India with us*<br/>
 
-&ensp;&ensp;&ensp;:point_right: Link to the Repository: <a href="https://github.com/Sheetal-05/Ministry-of-Tourism---India-"> 
+
 
 
 <br/>
